@@ -9,7 +9,7 @@ export default function Todo(){
 
         <div>
            <Form task={task} setTask={setTask}/>
-          <TodoList task={task}/>
+          <TodoList task={task} setTask={setTask}/>
         </div>
     );
 }
