@@ -30,5 +30,7 @@ box-shadow: 0 4px 6px rgb(0,0,0,0.2);
     border-radius: 4px;
     background-color: rgb(202, 84, 202);
     padding: 10px;
+    float: right;
+    margin-top: -5px;
     color: white;
 }
